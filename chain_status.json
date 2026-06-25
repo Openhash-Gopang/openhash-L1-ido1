@@ -1,11 +1,11 @@
 {
   "node_id": "KR-JEJU-JEJU-IDO1",
   "layer": 1,
-  "total_blocks": 32,
-  "latest_hash": "a5e69219b0785c319baf668511f4b73fba5bbb468556b6d283c4ea478cc8fa7c",
-  "latest_block": 31,
+  "total_blocks": 33,
+  "latest_hash": "c207d27c9a85f5107e439904c88d64254c40cf7d43686bd5808464b55ae0058e",
+  "latest_block": 32,
   "chain_valid": true,
-  "last_verified": "2026-06-24T20:58:23.184958+00:00",
+  "last_verified": "2026-06-25T02:43:07.628424+00:00",
   "openhash_tx": "CONFIRMED",
   "ilmv_status": "NORMAL"
 }
